@@ -1,1 +1,1 @@
-print('b')
+print('B + 1')
